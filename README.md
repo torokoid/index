@@ -31,5 +31,7 @@
     <!-- スプレッドシートが表示される場所 -->
     <div id="ss" style="width:555px; height:200px;"></div>
     
+    <a href="https://www.buildinsider.net/pr/grapecity/spreadjs/01" target="_blank">エクセルライクなグリッド</a>
+    
   </body>
 </html>
