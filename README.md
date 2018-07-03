@@ -1,6 +1,5 @@
 # index
  	
-<!DOCTYPE html>
 <html>
   <head>
 
