@@ -62,11 +62,10 @@ background-color: rgba(0, 225, 0, 0.5);
     <a href="https://torokoid.github.io/fts/" target="_blank">fts</a><br>
     <a href="https://torokoid.github.io/rom181123/" target="_blank">rom181123</a><br>
     <a href="https://torokoid.github.io/CMBS/" target="_blank">CMBS</a><br>
-    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a><br>
+    <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a><br>
     <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a><br>
     <a href="https://torokoid.github.io/hitachi_nemophila/" target="_blank">hitachi_nemophila</a><br>
     <a href="https://torokoid.github.io/Nikko/" target="_blank">Nikko</a><br>
-    <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a><br>
     <a href="https://torokoid.github.io/cat/" target="_blank">cat</a><br>
     <a href="https://torokoid.github.io/cautious-barnacle/" target="_blank">cautious-barnacle</a><br>
     
