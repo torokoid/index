@@ -48,7 +48,6 @@ background-color: rgba(0, 225, 0, 0.5);
 <script>
     <!-- SpreadJSのカルチャに「ja-jp（日本語）」を指定 -->
     <meta name="spreadjs culture" content="ja-jp">
-</script>
 
     <!-- SpreadJSの全機能ライブラリをロード -->
     <script src="http://localhost/spreadjs/9201610/scripts/gc.spread.sheets.all.9.20161.0.min.js">
@@ -56,21 +55,15 @@ background-color: rgba(0, 225, 0, 0.5);
     <!-- SpreadJSの日本語リソースをロード -->
     <script src="http://localhost/spreadjs/9201610/scripts/resources/ja/gc.spread.sheets.resources.ja.9.20161.0.min.js">
 
-<scropt>
-      window.onload = function() {
-
-        // スプレッドシートを生成する処理
-        var spread = new GC.Spread.Sheets.Workbook(document.getElementById("ss"));
-        var sheet = spread.getActiveSheet();
-        // ……ここでさまざまな処理を実行できる……
-
-      };
-      
     </script>
 
       </head>
   <body>
-    
+     window.onload = function() {
+        var spread = new GC.Spread.She
+ets.Workbook(document.getElementById("ss"));
+        var sheet = spread.getActiveSheet();
+      };   
       <!-- スプレッドシートに「Excel 2016 カラフル」テーマを指定 -->
     <link  href="http://localhost/spreadjs/9201610/css/gc.spread.sheets.excel2016colorful.9.20161.0.css" rel="stylesheet">
     
