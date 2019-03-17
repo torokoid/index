@@ -44,28 +44,31 @@ background-color: rgba(0, 225, 0, 0.5);
 }
 
 </style>
-    
-    <a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">ooizumi_judo</a>
-    <a href="https://torokoid.github.io/Empty-s/" target="_blank">Empty-s</a>
-    <a href="https://torokoid.github.io/gousan/" target="_blank">gousan</a>
-    <a href="https://torokoid.github.io/oizumi/" target="_blank">oizumi</a>
-    <a href="https://torokoid.github.io/mahoroba/" target="_blank">mahoroba</a>
-    <a href="https://torokoid.github.io/koguchi/" target="_blank">koguchi</a>
-    <a href="https://torokoid.github.io/NYP/" target="_blank">NYP</a>
-    <a href="https://torokoid.github.io/Chiang-Rai/" target="_blank">Chiang-Rai</a>
-    <a href="https://torokoid.github.io/utsunomiya/" target="_blank">utsunomiya</a>
-    <a href="https://torokoid.github.io/Honda_swim_meet/" target="_blank">Honda_swim_meet</a>
-    <a href="https://torokoid.github.io/fts_furuhashi/" target="_blank">fts_furuhashi</a>
-    <a href="https://torokoid.github.io/fts/" target="_blank">fts</a>
-    <a href="https://torokoid.github.io/rom181123/" target="_blank">rom181123</a>
-    <a href="https://torokoid.github.io/CMBS/" target="_blank">CMBS</a>
-    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a>    
-    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a>  
-    <a href="https://torokoid.github.io/hitachi_nemophila/" target="_blank">hitachi_nemophila</a>  
-    <a href="https://torokoid.github.io/Nikko/" target="_blank">Nikko</a>  
-    <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a>  
-    <a href="https://torokoid.github.io/cat/" target="_blank">cat</a>  
-    <a href="https://torokoid.github.io/cautious-barnacle/" target="_blank">cautious-barnacle</a>  
+    </head>
+    <body>
+	
+<br><br><br>
+    <a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">ooizumi_judo</a><br>
+    <a href="https://torokoid.github.io/Empty-s/" target="_blank">Empty-s</a><br>
+    <a href="https://torokoid.github.io/gousan/" target="_blank">gousan</a><br>
+    <a href="https://torokoid.github.io/oizumi/" target="_blank">oizumi</a><br>
+    <a href="https://torokoid.github.io/mahoroba/" target="_blank">mahoroba</a><br>
+    <a href="https://torokoid.github.io/koguchi/" target="_blank">koguchi</a><br>
+    <a href="https://torokoid.github.io/NYP/" target="_blank">NYP</a><br>
+    <a href="https://torokoid.github.io/Chiang-Rai/" target="_blank">Chiang-Rai</a><br>
+    <a href="https://torokoid.github.io/utsunomiya/" target="_blank">utsunomiya</a><br>
+    <a href="https://torokoid.github.io/Honda_swim_meet/" target="_blank">Honda_swim_meet</a><br>
+    <a href="https://torokoid.github.io/fts_furuhashi/" target="_blank">fts_furuhashi</a><br>
+    <a href="https://torokoid.github.io/fts/" target="_blank">fts</a><br>
+    <a href="https://torokoid.github.io/rom181123/" target="_blank">rom181123</a><br>
+    <a href="https://torokoid.github.io/CMBS/" target="_blank">CMBS</a><br>
+    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a><br>
+    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a><br>
+    <a href="https://torokoid.github.io/hitachi_nemophila/" target="_blank">hitachi_nemophila</a><br>
+    <a href="https://torokoid.github.io/Nikko/" target="_blank">Nikko</a><br>
+    <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a><br>
+    <a href="https://torokoid.github.io/cat/" target="_blank">cat</a><br>
+    <a href="https://torokoid.github.io/cautious-barnacle/" target="_blank">cautious-barnacle</a><br>
     
     
     
