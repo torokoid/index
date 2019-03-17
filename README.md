@@ -44,31 +44,31 @@ background-color: rgba(0, 225, 0, 0.5);
 }
 
 </style>
-
-<script>
-    <!-- SpreadJSのカルチャに「ja-jp（日本語）」を指定 -->
-    <meta name="spreadjs culture" content="ja-jp">
-
-    <!-- SpreadJSの全機能ライブラリをロード -->
-    <script src="http://localhost/spreadjs/9201610/scripts/gc.spread.sheets.all.9.20161.0.min.js"></script>
-
-    <!-- SpreadJSの日本語リソースをロード -->
-    <script src="http://localhost/spreadjs/9201610/scripts/resources/ja/gc.spread.sheets.resources.ja.9.20161.0.min.js"></script>
-
-      </head>
-  <body>
-     window.onload = function() {
-        var spread = new GC.Spread.She
-ets.Workbook(document.getElementById("ss"));
-        var sheet = spread.getActiveSheet();
-      };   
-      <!-- スプレッドシートに「Excel 2016 カラフル」テーマを指定 -->
-    <link  href="http://localhost/spreadjs/9201610/css/gc.spread.sheets.excel2016colorful.9.20161.0.css" rel="stylesheet">
     
-    <!-- スプレッドシートが表示される場所 -->
-    <div id="ss" style="width:555px; height:200px;"></div>
+    <a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">ooizumi_judo</a>
+    <a href="https://torokoid.github.io/Empty-s/" target="_blank">Empty-s</a>
+    <a href="https://torokoid.github.io/gousan/" target="_blank">gousan</a>
+    <a href="https://torokoid.github.io/oizumi/" target="_blank">oizumi</a>
+    <a href="https://torokoid.github.io/mahoroba/" target="_blank">mahoroba</a>
+    <a href="https://torokoid.github.io/koguchi/" target="_blank">koguchi</a>
+    <a href="https://torokoid.github.io/NYP/" target="_blank">NYP</a>
+    <a href="https://torokoid.github.io/Chiang-Rai/" target="_blank">Chiang-Rai</a>
+    <a href="https://torokoid.github.io/utsunomiya/" target="_blank">utsunomiya</a>
+    <a href="https://torokoid.github.io/Honda_swim_meet/" target="_blank">Honda_swim_meet</a>
+    <a href="https://torokoid.github.io/fts_furuhashi/" target="_blank">fts_furuhashi</a>
+    <a href="https://torokoid.github.io/fts/" target="_blank">fts</a>
+    <a href="https://torokoid.github.io/rom181123/" target="_blank">rom181123</a>
+    <a href="https://torokoid.github.io/CMBS/" target="_blank">CMBS</a>
+    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a>    
+    <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a>  
+    <a href="https://torokoid.github.io/hitachi_nemophila/" target="_blank">hitachi_nemophila</a>  
+    <a href="https://torokoid.github.io/Nikko/" target="_blank">Nikko</a>  
+    <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a>  
+    <a href="https://torokoid.github.io/cat/" target="_blank">cat</a>  
+    <a href="https://torokoid.github.io/cautious-barnacle/" target="_blank">cautious-barnacle</a>  
     
-    <a href="https://www.buildinsider.net/pr/grapecity/spreadjs/01" target="_blank">エクセルライクなグリッド</a>
+    
+    
     
   </body>
 </html>
