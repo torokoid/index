@@ -35,7 +35,7 @@ font-size: 1em;
     
     
 body {
-    background: rgba(0, 225, 0, 0.5);
+    background: rgba(0, 225, 0, 0.3);
 }
 
 section {
