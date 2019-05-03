@@ -70,10 +70,13 @@ a:active { color:#ff00ff; }
     <a href="https://torokoid.github.io/Empty-s/" target="_blank">Empty-s</a></p><br><br>
 <h3>高校関係</h3>
 <p>
+    <a href="https://torokoid.github.io/home/" target="_blank">home</a><br>
     <a href="https://torokoid.github.io/oizumi/" target="_blank">oizumi</a><br>
     <a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">ooizumi_judo</a></p><br><br>
 <h3>お花</h3>
 <p>
+    <a href="https://torokoid.github.io/nemophila/" target="_blank">nemophila</a><br>
+    <a href="https://torokoid.github.io/shibasakura/" target="_blank">shibasakura</a><br>
     <a href="https://torokoid.github.io/mashiko_himawari/" target="_blank">mashiko_himawari</a><br>
     <a href="https://torokoid.github.io/hitachi_kochia/" target="_blank">hitachi_kochia</a><br>
     <a href="https://torokoid.github.io/hitachi_nemophila/" target="_blank">hitachi_nemophila</a></p><br><br>
@@ -83,6 +86,8 @@ a:active { color:#ff00ff; }
     <a href="https://torokoid.github.io/utsunomiya/" target="_blank">utsunomiya</a></p><br><br>
 <h3>ママ親戚</h3>
 <p>
+    <a href="https://yayaploy.github.io/kaomangai/" target="_blank">kaomangai</a><br>
+    <a href="https://yayaploy.github.io/whooneimaloy/" target="_blank">whoonwimaloy</a><br>
     <a href="https://torokoid.github.io/Chiang-Rai/" target="_blank">Chiang-Rai</a><br>
     <a href="https://torokoid.github.io/Nikko/" target="_blank">Nikko</a></p><br><br>
 <h3>ワンニャン</h3>
